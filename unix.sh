@@ -5,3 +5,7 @@ alias ls="ls --show-control-chars -F --color $*"
 alias ..="cd .."
 alias ...="cd ../.."
 alias -- -="cd -"
+
+
+#File aliases
+alias t="touch $*"
