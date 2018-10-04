@@ -7,7 +7,7 @@ function chrome-dot() {
 }
 
 function browser() {
-    chrome-dot()
+    chrome-dot();
 }
 
 
