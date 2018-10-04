@@ -1,6 +1,6 @@
 alias ls="ls --show-control-chars -F --color $*"
 alias dirs="ls -d */"
-alias files="ls -f"
+alias files="find ./ -maxdepth 1 -type f "
 
 
 #Naviagation aliases
