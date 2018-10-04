@@ -6,6 +6,10 @@ function chrome-dot() {
     chrome "$URL"
 }
 
+function browser() {
+    chrome-dot()
+}
+
 
 function search() {
     QUERY=$1
