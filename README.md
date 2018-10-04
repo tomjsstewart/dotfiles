@@ -10,7 +10,7 @@ To use these scripts, clone the repository:
 
 ```bash
 cd ~
-git clone git@github.com:tomjsstewart/dotfiles.git
+git clone https://github.com/tomjsstewart/dotfiles.git
 ```
 
 Then add the following to `~/.bash_profile`:
